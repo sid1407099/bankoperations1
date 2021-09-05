@@ -3,8 +3,8 @@
  Account Creation
 + * If a new customer, provide new unique bank account number
 
-# Deposit Money
-* Takes minimum balance as Rs 500 automatically once account created
+ Deposit Money
++* Takes minimum balance as Rs 500 automatically once account created
  
 # Withdraw Money
 * Customer cannot withdraw the minimum balance amount which is Rs 500
