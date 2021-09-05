@@ -1,7 +1,7 @@
 # The Basic Operations Of Bank
 
 # Account Creation
- *If a new customer, provide new unique bank account number
+* If a new customer, provide new unique bank account number
 
 # Deposit Money
 * Takes minimum balance as Rs 500 automatically once account created
