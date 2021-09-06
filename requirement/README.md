@@ -27,7 +27,7 @@
 + * Description: The application will ask user to choose between 1 to 5
 + * Choices:
 + * Account Creation
-         + *   Deposit Amount
++ * Deposit Amount
          +  3. Withdraw Amount
          +  4. Check Balance
          +  5. Exit 
