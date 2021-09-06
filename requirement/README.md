@@ -25,8 +25,8 @@
 # Low level Requirements:
 + * LR1: The application should allow user to make a choice between 1 to 5
 + * Description: The application will ask user to choose between 1 to 5
-         + * Choices:
-         +  1.Account Creation
++ * Choices:
++ * 1.Account Creation
          +  2. Deposit Amount
          +  3. Withdraw Amount
          +  4. Check Balance
